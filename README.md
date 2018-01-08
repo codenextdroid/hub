@@ -1,4 +1,4 @@
-# Club Hub
+# Mobile Development Club Hub
 
 This repository contains general information about Mobile Development Club, as well as resources (slides, project guides, etc.) for each session.
 
