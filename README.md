@@ -44,7 +44,7 @@ Feel free to contact Coach Wolf about any issues.
 
 ### Episode 9: Hacking (3/12/2018)
 
-##### Work on a capstone project
+##### Begin a capstone project
 
 ### Episode 10: More Hacking (3/19/2018)
 
