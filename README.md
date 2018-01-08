@@ -36,11 +36,11 @@ Feel free to contact Coach Wolf about any issues.
 
 ### Episode 6: Mobile Gaming (2/19/2018)
 
-##### Learn to create mobile games
+##### Learn how to create mobile games
 
 ### Episode 7: Mobile Gaming II (2/26/2018)
 
-##### Learn to create mobile games
+##### Learn how to create mobile games
 
 ### Episode 8: Emerging Tech (3/5/2018)
 
