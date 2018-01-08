@@ -4,6 +4,8 @@ This repository contains general information about Mobile Development Club, as w
 
 ![](https://cswithandroid.withgoogle.com/img/appliedcsandroid.png)
 
+Photo credit: [Google For Education: Applied CS with Android](https://cswithandroid.withgoogle.com/img/appliedcsandroid.png)
+
 ## Syllabus
 
 Mobile Development Club occurs on Tuesdays in the Code Next Lab.
