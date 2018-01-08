@@ -5,6 +5,8 @@ This repository contains general information about Mobile Development Club, as w
 ## Syllabus
 
 Mobile Development Club occurs on Tuesdays in the Code Next Lab.
+We will start promptly at 4:15PM, and clean-up at 5:50PM.
+Feel free to contact Coach Wolf about any issues.
 
 ### Episode 1: Introduction (1/8/2018)
 
