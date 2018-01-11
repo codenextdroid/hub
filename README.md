@@ -16,7 +16,7 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### Overview of the club 
 
-##### [Slides](/episode-1/epsiode-1-slides.pdf)
+##### [Slides](/episode-1/episode-1-slides.pdf)
 
 ### Episode 2: User Interface (1/15/2018)
 
