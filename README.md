@@ -17,6 +17,9 @@ Feel free to contact Coach Wolf about any issues.
 ##### Overview of the club 
 
 ##### [Slides](/episode-1/episode-1-slides.pdf)
+##### [Lesson](/episode-1/episode-1-lesson-plan.pdf)
+##### [Dessert Activity Cards](/episode-1/dessert-activity-cards.pdf)
+##### [Playsheet](/episode-1/playsheet.pdf)
 
 ### Episode 2: User Interface (1/15/2018)
 
