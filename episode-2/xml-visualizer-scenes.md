@@ -32,6 +32,9 @@
 
 ##### [Link](http://labs.udacity.com/android-visualizer/#/android/linear-layout-weight)
 
+### Scene 9: Relative Layout
+
+##### [Link](http://labs.udacity.com/android-visualizer/#/android/relative-layout-align-to-parent)
 
 
 
