@@ -12,40 +12,40 @@
 
 ## Getting Started 
 
-##### Open Android Studio & click "Start a new Android Studio project"
+#### Open Android Studio & click "Start a new Android Studio project"
 
 ![](guide-images/open.png)
 
-##### Give your app a name
+#### Give your app a name
 
 ![](guide-images/configure.png)
 
-##### Choose "API 15..." as the Minimum SDK
+#### Choose "API 15..." as the Minimum SDK
 
 ![](guide-images/target-device.png)
 
-##### Choose the Empty Activity template
+#### Choose the Empty Activity template
 
 ![](guide-images/empty.png)
 
-##### Click "Finish"
+#### Click "Finish"
 
 ![](guide-images/finish.png)
 
-##### Replace the code in "activity_main.xml" with starter layout code
+#### Replace the code in "activity_main.xml" with starter layout code
 
 [Scrolling LinearLayout](../starter-layouts/scrollview-starter.xml)<br>
-[LinearLayout](../starter-layouts/scrollview-starter.xml)<br>
+[LinearLayout](../starter-layouts/linear-starter.xml)<br>
 [RelativeLayout](../starter-layouts/relative-starter.xml)<br>
 
 ## Adding images
 
-##### Download an image and rename it to something simple
+#### Download an image and rename it to something simple
 
-##### Copy the image (Command + C)
+#### Copy the image (Command + C)
 
-##### Choose the "drawable" folder in Android Studio and paste the image (Command + V)
+#### Choose the "drawable" folder in Android Studio and paste the image (Command + V)
 
-##### In the "android:src" attribute, add the image with "@drawable/your-image-name"
+#### In the "android:src" attribute, add the image with "@drawable/your-image-name"
 
 
