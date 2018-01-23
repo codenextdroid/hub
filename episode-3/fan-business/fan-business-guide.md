@@ -48,10 +48,20 @@ Starter Layouts:
 
 #### Download an image and rename it to something simple
 
+![](guide-images/pic.png)
+
 #### Copy the image (Command + C)
+
+![](guide-images/copy.png)
 
 #### Choose the "drawable" folder in Android Studio and paste the image (Command + V)
 
+![](guide-images/paste.png)
+
+#### Press "Ok"
+
+![](guide-images/ok.png)
+
 #### In the "android:src" attribute, add the image with "@drawable/your-image-name"
 
-
+![](guide-images/imageview.png)
