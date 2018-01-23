@@ -8,7 +8,7 @@
 <ul>  
   <li>The name of what it's about</li>
   <li>An image (or multiple images)</li>
-  <li>A description (could be contact info for a business)</li>
+  <li>A description (could include contact info for a business)</li>
 </ul>
 
 ## Getting Started 
@@ -33,7 +33,12 @@
 
 ![](guide-images/finish.png)
 
-#### Replace the code in "activity_main.xml" with starter layout code
+#### Replace all of the code in "activity_main.xml" with starter layout code
+
+![](guide-images/highlight.png)<br>
+![](guide-images/replace.png)
+
+Starter Layouts:
 
 [Scrolling LinearLayout](../starter-layouts/scrollview-starter.xml)<br>
 [LinearLayout](../starter-layouts/linear-starter.xml)<br>
