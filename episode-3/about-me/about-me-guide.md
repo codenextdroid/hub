@@ -13,7 +13,9 @@
   <li>A very short bio that says why you were interested in the club, what you hope to learn, and what you want to do with what you learn in this club in the future</li>
 </ul>
 
-You will edit this [About Me XML](about-me.xml) starter code to complete this exercise
+You will edit this [About Me XML](about-me.xml) starter code to complete this exercise <br>
+
+![](guide-images/about-wolf.png)
 
 
 ## Getting Started 
