@@ -27,6 +27,10 @@ Feel free to contact Coach Wolf about any issues.
 
 ### Episode 3: User Interface II (1/22/2018)
 
+##### [Glossary](https://developers.google.com/android/for-all/vocab-words/?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+
+##### [Views CheatSheet](http://labs.udacity.com/images/Common-Android-Views-Cheat-Sheet.pdf)
+
 ##### Using Android Studio & designing layouts
 
 ### Episode 4: User Interaction (2/5/2018)
