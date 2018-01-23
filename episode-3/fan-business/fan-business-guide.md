@@ -18,25 +18,25 @@
 
 ##### Give your app a name
 
-![]("https://github.com/codenextdroid/hub/raw/master/episode-3/fan-business/guide-images/configure.png")
+![](guide-images/configure.png)
 
 ##### Choose "API 15..." as the Minimum SDK
 
-![]("guide-images/target-device.png")
+![](guide-images/target-device.png)
 
 ##### Choose the Empty Activity template
 
-![]("guide-images/empty.png")
+![](guide-images/empty.png)
 
 ##### Click "Finish"
 
-![]("guide-images/finish.png")
+![](guide-images/finish.png)
 
 ##### Replace the code in "activity_main.xml" with starter layout code
 
-[Scrolling LinearLayout]("../starter-layouts/scrollview-starter.xml")<br>
-[LinearLayout]("../starter-layouts/scrollview-starter.xml")<br>
-[RelativeLayout]("../starter-layouts/relative-starter.xml")<br>
+[Scrolling LinearLayout](../starter-layouts/scrollview-starter.xml)<br>
+[LinearLayout](../starter-layouts/scrollview-starter.xml)<br>
+[RelativeLayout](../starter-layouts/relative-starter.xml)<br>
 
 ## Adding images
 
