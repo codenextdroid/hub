@@ -14,7 +14,7 @@
 
 ##### Open Android Studio & click "Start a new Android Studio project"
 
-![]("guide-images/open.png")
+![]("hub/episode-3/fan-business/guide-images/open.png")
 
 ##### Give your app a name
 
