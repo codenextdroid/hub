@@ -14,11 +14,11 @@
 
 ##### Open Android Studio & click "Start a new Android Studio project"
 
-![]("hub/episode-3/fan-business/guide-images/open.png")
+![]("https://github.com/codenextdroid/hub/raw/master/episode-3/fan-business/guide-images/open.png")
 
 ##### Give your app a name
 
-![]("guide-images/configure.png")
+![]("https://github.com/codenextdroid/hub/raw/master/episode-3/fan-business/guide-images/configure.png")
 
 ##### Choose "API 15..." as the Minimum SDK
 
