@@ -9,7 +9,6 @@
   <li>Your name</li>
   <li>An image of or representing you</li>
   <li>The grade you're in</li>
-  <li>The grade you're in</li>
   <li>Your favorite app and/or an app idea you have</li>
   <li>A very short bio that says why you were interested in the club, what you hope to learn, and what you want to do with what you learn in this club in the future</li>
 </ul>
