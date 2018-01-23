@@ -34,9 +34,9 @@
 
 ##### Replace the code in "activity_main.xml" with starter layout code
 
-[Scrolling LinearLayout]("../starter-layouts/scrollview-starter.xml)
-[LinearLayout]("../starter-layouts/scrollview-starter.xml)
-[RelativeLayout]("../starter-layouts/relative-starter.xml)
+<p>[Scrolling LinearLayout]("../starter-layouts/scrollview-starter.xml)</p>
+<p>[LinearLayout]("../starter-layouts/scrollview-starter.xml)</p>
+<p>[RelativeLayout]("../starter-layouts/relative-starter.xml)</p>
 
 ## Adding images
 
