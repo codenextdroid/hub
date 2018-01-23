@@ -4,7 +4,8 @@
 <p>Use your knowledge of mobile user interfaces to build a single-screen app</p>
 <p>Your app can display information about anything you are a fan of (like a TV show, book, Coach Wolf, etc), or a small business/organization (can be fictional, or even Code Next)</p>
 
-<ul> Your app should AT LEAST include: 
+<p>Your app should AT LEAST include:</p>
+<ul>  
   <li>The name of what it's about</li>
   <li>An image (or multiple images)</li>
   <li>A description (could be contact info for a business)</li>
