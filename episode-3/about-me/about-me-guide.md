@@ -15,9 +15,6 @@
 
 You will edit this [About Me XML](about-me.xml) starter code to complete this exercise <br>
 
-![](guide-images/about-wolf.png)
-
-
 ## Getting Started 
 
 #### Open Android Studio & click "Start a new Android Studio project"
