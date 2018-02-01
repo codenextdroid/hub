@@ -12,7 +12,7 @@ Mobile Development Club occurs on Tuesdays in the Code Next Lab.
 We will start promptly at 4:15PM, and clean-up at 5:50PM.
 Feel free to contact Coach Wolf about any issues.
 
-### Episode 1: Introduction (1/8/2018)
+### Episode 1: Introduction
 
 ##### Overview of the club 
 
@@ -21,11 +21,11 @@ Feel free to contact Coach Wolf about any issues.
 ##### [Dessert Activity Cards](/episode-1/dessert-activity-cards.pdf)
 ##### [Playsheet](/episode-1/playsheet.pdf)
 
-### Episode 2: User Interface (1/15/2018)
+### Episode 2: User Interface
 
 ##### Using Android Studio & designing layouts
 
-### Episode 3: User Interface II (1/22/2018)
+### Episode 3: User Interface II
 
 ##### Using Android Studio & designing layouts
 
@@ -39,30 +39,30 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### [Views CheatSheet](http://labs.udacity.com/images/Common-Android-Views-Cheat-Sheet.pdf)
 
-### Episode 4: User Interaction (2/5/2018)
+### Episode 4: User Interaction (2/6/2018)
 
 ##### Make apps interactive by using buttons and changing text
 
-### Episode 5: User Interaction II (2/12/2018)
+### Episode 5: User Interaction II (2/13/2018)
 
 ##### Make apps interactive by using buttons and changing text
 
-### Episode 6: Mobile Gaming (2/19/2018)
+### Episode 6: Mobile Gaming (2/20/2018)
 
 ##### Learn how to create mobile games
 
-### Episode 7: Mobile Gaming II (2/26/2018)
+### Episode 7: Mobile Gaming II (2/27/2018)
 
 ##### Learn how to create mobile games
 
-### Episode 8: Emerging Tech (3/5/2018)
+### Episode 8: Emerging Tech (3/6/2018)
 
 ##### Explore Virtual Reality, Augmented Reality, and Artificial Intelligence
 
-### Episode 9: Hacking (3/12/2018)
+### Episode 9: Hacking (3/13/2018)
 
 ##### Begin a capstone project
 
-### Episode 10: More Hacking (3/19/2018)
+### Episode 10: More Hacking (3/20/2018)
 
 ##### Complete your capstone project
