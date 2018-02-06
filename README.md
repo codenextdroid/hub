@@ -29,6 +29,8 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### Using Android Studio & designing layouts
 
+##### [Slides](/episode-3/episode-3-slides.pdf)
+
 ##### [About Me](/episode-3/about-me/about-me-guide.md)
 
 ##### [Fan/Business Page](/episode-3/fan-business/fan-business-guide.md)
