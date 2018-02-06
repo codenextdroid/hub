@@ -41,11 +41,13 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### [Views CheatSheet](http://labs.udacity.com/images/Common-Android-Views-Cheat-Sheet.pdf)
 
-### Episode 4: User Interaction (2/6/2018)
+### Episode 4: User Interface III (2/6/2018)
 
-##### Make apps interactive by using buttons and changing text
+##### Build and deploy your first single-screen app
 
-### Episode 5: User Interaction II (2/13/2018)
+#### See Episode 3 resources
+
+### Episode 5: User Interaction (2/13/2018)
 
 ##### Make apps interactive by using buttons and changing text
 
