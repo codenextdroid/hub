@@ -47,26 +47,26 @@ Feel free to contact Coach Wolf about any issues.
 
 #### See Episode 3 resources
 
-### Episode 5: User Interaction (2/13/2018)
+### Episode 5: Hacking (2/13/2018)
+
+##### Finish your single-screen apps
+
+### Episode 6: User Interaction (2/20/2018)
 
 ##### Make apps interactive by using buttons and changing text
 
-### Episode 6: Mobile Gaming (2/20/2018)
+### Episode 7: User Interaction II (2/27/2018)
 
-##### Learn how to create mobile games
+##### Make apps interactive by using buttons and changing text
 
-### Episode 7: Mobile Gaming II (2/27/2018)
+### Episode 8: Hacking (3/6/2018)
 
-##### Learn how to create mobile games
+##### Build a capstone project. Choose from topics like Virtual Reality, Augmented Reality, Artificial Intelligence, etc.
 
-### Episode 8: Emerging Tech (3/6/2018)
+### Episode 9: More Hacking (3/13/2018)
 
-##### Explore Virtual Reality, Augmented Reality, and Artificial Intelligence
+##### Build a capstone project. Choose from topics like Virtual Reality, Augmented Reality, Artificial Intelligence, etc.
 
-### Episode 9: Hacking (3/13/2018)
+### Episode 10: Even More Hacking (3/20/2018)
 
-##### Begin a capstone project
-
-### Episode 10: More Hacking (3/20/2018)
-
-##### Complete your capstone project
+##### Build a capstone project. Choose from topics like Virtual Reality, Augmented Reality, Artificial Intelligence, etc.
