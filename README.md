@@ -51,6 +51,8 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### Finish your single-screen apps
 
+#### See Episode 3 resources
+
 ### Episode 6: User Interaction (2/20/2018)
 
 ##### Make apps interactive by using buttons and changing text
