@@ -35,11 +35,14 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### [Fan/Business Page](/episode-3/fan-business/fan-business-guide.md)
 
+##### [Valentines Day Card](https://discussions.udacity.com/t/make-your-own-card/19643)
+
 ##### [Starter Layouts](/episode-3/starter-layouts)
 
 ##### [Glossary](https://developers.google.com/android/for-all/vocab-words/?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 
 ##### [Views CheatSheet](http://labs.udacity.com/images/Common-Android-Views-Cheat-Sheet.pdf)
+
 
 ### Episode 4: User Interface III (2/6/2018)
 
