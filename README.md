@@ -43,6 +43,7 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### [Views CheatSheet](http://labs.udacity.com/images/Common-Android-Views-Cheat-Sheet.pdf)
 
+##### [Migos example](/episode-3/fan-business/migos.xml)
 
 ### Episode 4: User Interface III (2/6/2018)
 
