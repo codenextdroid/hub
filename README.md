@@ -53,11 +53,13 @@ Feel free to contact Coach Wolf about any issues.
 
 ### Episode 5: Hacking (2/13/2018)
 
-##### Finish your single-screen apps
+##### Build and deploy your first single-screen app
 
 #### See Episode 3 resources
 
 ### Episode 6: Hacking II (2/20/2018)
+
+##### Finish your single-screen apps
 
 ##### See Episode 3 resources
 
