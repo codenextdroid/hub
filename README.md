@@ -71,7 +71,7 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### Make apps interactive by using buttons and changing text
 
-### Episode 9: User Interaction II(3/13/2018)
+### Episode 9: User Interaction II (3/13/2018)
 
 ##### Make apps interactive by using buttons and changing text
 
