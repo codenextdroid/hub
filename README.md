@@ -63,18 +63,18 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### See Episode 3 resources
 
-### Episode 7: User Interaction (2/27/2018)
+### Episode 7: Artificial Intelligence (2/27/2018)
+
+##### Create your own Actions for the Google Assistant
+
+### Episode 8: User Interaction I (3/6/2018)
 
 ##### Make apps interactive by using buttons and changing text
 
-### Episode 8: User Interaction II (3/6/2018)
+### Episode 9: User Interaction II(3/13/2018)
 
 ##### Make apps interactive by using buttons and changing text
 
-### Episode 9: More Hacking (3/13/2018)
+### Episode 10: Virtual & Augmented Reality (3/20/2018)
 
-##### Build a capstone project. Choose from topics like Virtual Reality, Augmented Reality, Artificial Intelligence, etc.
-
-### Episode 10: More Hacking II (3/20/2018)
-
-##### Build a capstone project. Choose from topics like Virtual Reality, Augmented Reality, Artificial Intelligence, etc.
+##### Discover Google Daydream and ARCore
