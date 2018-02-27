@@ -67,6 +67,8 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### Create your own Actions for the Google Assistant
 
+##### [Templates](https://developers.google.com/actions/templates/first-app)
+
 ### Episode 8: User Interaction I (3/6/2018)
 
 ##### Make apps interactive by using buttons and changing text
