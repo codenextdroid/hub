@@ -79,7 +79,17 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### Dope Daydream Apps
 
-##### 
+<ul>
+  <li>YouTube VR</li>
+  <li>Expeditions</li>
+  <li>Google Arts & Culture</li>
+  <li>Cardboard Camera</li>
+  <li>Google Photos</li>
+  <li>Netflix VR</li>
+  <li>Horizon</li>
+  <li>Virtual Virtual Reality</li>
+  <li>etc.</li>
+</ul>
 
 ##### Create your own SnapChat AR filter
 
@@ -90,5 +100,3 @@ Feel free to contact Coach Wolf about any issues.
 ##### [Google Poly for 3D Models](https://poly.google.com/)
 
 ### Episode 10: TBA (3/20/2018)
-
-##### 
