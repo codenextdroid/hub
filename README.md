@@ -69,14 +69,26 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### [Templates](https://developers.google.com/actions/templates/first-app)
 
-### Episode 8: User Interaction I (3/6/2018)
+### Episode 8: User Interaction (3/6/2018)
 
 ##### Make apps interactive by using buttons and changing text
 
-### Episode 9: User Interaction II (3/13/2018)
+### Episode 9: Virtual & Augmented Reality (3/13/2018)
 
-##### Make apps interactive by using buttons and changing text
+##### Discover Google Daydream, ARCore, and SnapChat
 
-### Episode 10: Virtual & Augmented Reality (3/20/2018)
+##### Dope Daydream Apps
 
-##### Discover Google Daydream and ARCore
+##### 
+
+##### Create your own SnapChat AR filter
+
+##### [Blog](https://medium.com/@tgb.bashista/introduction-to-snapchats-lens-studio-5dbd2737b684)
+
+##### [Video](https://www.youtube.com/watch?v=f1lzaAiesdU)
+
+##### [Google Poly for 3D Models](https://poly.google.com/)
+
+### Episode 10: TBA (3/20/2018)
+
+##### 
