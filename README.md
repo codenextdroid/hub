@@ -99,4 +99,8 @@ Feel free to contact Coach Wolf about any issues.
 
 ##### [Google Poly for 3D Models](https://poly.google.com/)
 
+##### Build with Google ARCore (See Coach Wolf)
+
+##### [Starter Project](https://drive.google.com/corp/drive/folders/18QAswcDO9WVLkcUTFbf7LhN2iV-q0y4I)
+
 ### Episode 10: TBA (3/20/2018)
