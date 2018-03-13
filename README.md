@@ -88,7 +88,7 @@ Feel free to contact Coach Wolf about any issues.
   <li>Netflix VR</li>
   <li>Horizon</li>
   <li>Virtual Virtual Reality</li>
-  <li>More can be found <a href="https://vr.google.com/daydream/experiences/">here</a> or within the Daydream app itself</li>
+  <li>More can be found <a href="https://vr.google.com/daydream/experiences/" target="_blank">here</a> or within the Daydream app itself</li>
 </ul>
 
 ##### Create your own SnapChat AR filter
